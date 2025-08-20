@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>sdk_container_demo</RootNamespace>
     <SelfContained>false</SelfContained>
-	<ContainerBaseImage>docker.io/sepppenner/dotnet7base:1.0.0</ContainerBaseImage>
+	<ContainerBaseImage>registry-1.docker.io/sepppenner/dotnet7base:1.0.0</ContainerBaseImage>
   </PropertyGroup>
 
   <ItemGroup>
